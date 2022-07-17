@@ -660,6 +660,9 @@
     ],
     "dcncLanguage": "Chinese - Simplified",
     "dcncTag": "ZHS",
+    "obsoleteDCNCTags": [
+      "CHS"
+    ],
     "rfc5646Tag": "zh-Hans",
     "use": [
       "text"
@@ -737,6 +740,9 @@
     ],
     "dcncLanguage": "Chinese - Traditional",
     "dcncTag": "ZHT",
+    "obsoleteDCNCTags": [
+      "CHT"
+    ],
     "rfc5646Tag": "zh-Hant",
     "use": [
       "text"
