@@ -455,6 +455,9 @@
   {
     "dcncLanguage": "Chinese - Cantonese",
     "dcncTag": "YUE",
+    "obsoleteDCNCTags": [
+      "GDH"
+    ],
     "rfc5646Tag": "yue",
     "use": [
       "audio",
@@ -476,6 +479,9 @@
     ],
     "dcncLanguage": "Chinese - Mandarin",
     "dcncTag": "CMN",
+    "obsoleteDCNCTags": [
+      "PTH"
+    ],
     "rfc5646Tag": "cmn",
     "use": [
       "audio"
